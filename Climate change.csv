@@ -1,0 +1,1001 @@
+Year,Geography,Core public infrastructure assets,Type of municipality by population size,GeoCode,Value
+2016,Canada,Potable water,All municipalities,null,29.45
+2016,Canada,Potable water,All urban municipalities,null,32.43
+2016,Canada,Potable water,"Urban municipalities, population 1 to 4,999",null,22.11
+2016,Canada,Potable water,"Urban municipalities, population 5,000 to 29,999",null,36.05
+2016,Canada,Potable water,"Urban municipalities, population 30,000 or more",null,41.67
+2016,Canada,Potable water,All rural municipalities,null,27.61
+2016,Canada,Potable water,"Rural municipalities, population 1 to 4,999",null,26.54
+2016,Canada,Potable water,"Rural municipalities, population 5,000 or more",null,31.08
+2016,Canada,Stormwater,All municipalities,null,51.11
+2016,Canada,Stormwater,All urban municipalities,null,59.42
+2016,Canada,Stormwater,"Urban municipalities, population 1 to 4,999",null,37.91
+2016,Canada,Stormwater,"Urban municipalities, population 5,000 to 29,999",null,64.03
+2016,Canada,Stormwater,"Urban municipalities, population 30,000 or more",null,77.18
+2016,Canada,Stormwater,All rural municipalities,null,45.44
+2016,Canada,Stormwater,"Rural municipalities, population 1 to 4,999",null,44.87
+2016,Canada,Stormwater,"Rural municipalities, population 5,000 or more",null,46.98
+2016,Canada,Wastewater,All municipalities,null,35.37
+2016,Canada,Wastewater,All urban municipalities,null,39.44
+2016,Canada,Wastewater,"Urban municipalities, population 1 to 4,999",null,28.21
+2016,Canada,Wastewater,"Urban municipalities, population 5,000 to 29,999",null,42.15
+2016,Canada,Wastewater,"Urban municipalities, population 30,000 or more",null,50.36
+2016,Canada,Wastewater,All rural municipalities,null,33.02
+2016,Canada,Wastewater,"Rural municipalities, population 1 to 4,999",null,32.6
+2016,Canada,Wastewater,"Rural municipalities, population 5,000 or more",null,34.08
+2016,Canada,Solid waste,All municipalities,null,15.27
+2016,Canada,Solid waste,All urban municipalities,null,18.18
+2016,Canada,Solid waste,"Urban municipalities, population 1 to 4,999",null,11.76
+2016,Canada,Solid waste,"Urban municipalities, population 5,000 to 29,999",null,19.38
+2016,Canada,Solid waste,"Urban municipalities, population 30,000 or more",null,23.23
+2016,Canada,Solid waste,All rural municipalities,null,13.67
+2016,Canada,Solid waste,"Rural municipalities, population 1 to 4,999",null,16.1
+2016,Canada,Solid waste,"Rural municipalities, population 5,000 or more",null,6.92
+2016,Newfoundland and Labrador,Potable water,All municipalities,10,35.48
+2016,Newfoundland and Labrador,Potable water,All urban municipalities,10,23.08
+2016,Newfoundland and Labrador,Potable water,"Urban municipalities, population 1 to 4,999",10,18.75
+2016,Newfoundland and Labrador,Potable water,"Urban municipalities, population 5,000 to 29,999",10,22.22
+2016,Newfoundland and Labrador,Potable water,"Urban municipalities, population 30,000 or more",10,100
+2016,Newfoundland and Labrador,Potable water,All rural municipalities,10,44.44
+2016,Newfoundland and Labrador,Potable water,"Rural municipalities, population 1 to 4,999",10,36.67
+2016,Newfoundland and Labrador,Potable water,"Rural municipalities, population 5,000 or more",10,83.33
+2016,Newfoundland and Labrador,Stormwater,All municipalities,10,71.43
+2016,Newfoundland and Labrador,Stormwater,All urban municipalities,10,66.67
+2016,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 1 to 4,999",10,64.29
+2016,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 5,000 to 29,999",10,66.67
+2016,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 30,000 or more",10,100
+2016,Newfoundland and Labrador,Stormwater,All rural municipalities,10,75
+2016,Newfoundland and Labrador,Stormwater,"Rural municipalities, population 1 to 4,999",10,73.08
+2016,Newfoundland and Labrador,Stormwater,"Rural municipalities, population 5,000 or more",10,83.33
+2016,Newfoundland and Labrador,Wastewater,All municipalities,10,41.94
+2016,Newfoundland and Labrador,Wastewater,All urban municipalities,10,33.33
+2016,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 1 to 4,999",10,35.71
+2016,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 5,000 to 29,999",10,22.22
+2016,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 30,000 or more",10,100
+2016,Newfoundland and Labrador,Wastewater,All rural municipalities,10,47.37
+2016,Newfoundland and Labrador,Wastewater,"Rural municipalities, population 1 to 4,999",10,43.75
+2016,Newfoundland and Labrador,Wastewater,"Rural municipalities, population 5,000 or more",10,66.67
+2016,Newfoundland and Labrador,Solid waste,All municipalities,10,18.92
+2016,Newfoundland and Labrador,Solid waste,All urban municipalities,10,25
+2016,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 1 to 4,999",10,25
+2016,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 5,000 to 29,999",10,14.29
+2016,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 30,000 or more",10,100
+2016,Newfoundland and Labrador,Solid waste,All rural municipalities,10,0
+2016,Newfoundland and Labrador,Solid waste,"Rural municipalities, population 1 to 4,999",10,0
+2016,Newfoundland and Labrador,Solid waste,"Rural municipalities, population 5,000 or more",10,0
+2016,Prince Edward Island,Potable water,All municipalities,11,28.57
+2016,Prince Edward Island,Potable water,All urban municipalities,11,50
+2016,Prince Edward Island,Potable water,"Urban municipalities, population 1 to 4,999",11,0
+2016,Prince Edward Island,Potable water,"Urban municipalities, population 5,000 to 29,999",11,33.33
+2016,Prince Edward Island,Potable water,"Urban municipalities, population 30,000 or more",11,100
+2016,Prince Edward Island,Potable water,All rural municipalities,11,0
+2016,Prince Edward Island,Potable water,"Rural municipalities, population 1 to 4,999",11,0
+2016,Prince Edward Island,Potable water,"Rural municipalities, population 5,000 or more",11,0
+2016,Prince Edward Island,Stormwater,All municipalities,11,75
+2016,Prince Edward Island,Stormwater,All urban municipalities,11,100
+2016,Prince Edward Island,Stormwater,"Urban municipalities, population 1 to 4,999",11,0
+2016,Prince Edward Island,Stormwater,"Urban municipalities, population 5,000 to 29,999",11,100
+2016,Prince Edward Island,Stormwater,"Urban municipalities, population 30,000 or more",11,100
+2016,Prince Edward Island,Stormwater,All rural municipalities,11,50
+2016,Prince Edward Island,Stormwater,"Rural municipalities, population 1 to 4,999",11,50
+2016,Prince Edward Island,Stormwater,"Rural municipalities, population 5,000 or more",11,0
+2016,Prince Edward Island,Wastewater,All municipalities,11,44.44
+2016,Prince Edward Island,Wastewater,All urban municipalities,11,40
+2016,Prince Edward Island,Wastewater,"Urban municipalities, population 1 to 4,999",11,100
+2016,Prince Edward Island,Wastewater,"Urban municipalities, population 5,000 to 29,999",11,33.33
+2016,Prince Edward Island,Wastewater,"Urban municipalities, population 30,000 or more",11,0
+2016,Prince Edward Island,Wastewater,All rural municipalities,11,50
+2016,Prince Edward Island,Wastewater,"Rural municipalities, population 1 to 4,999",11,50
+2016,Prince Edward Island,Wastewater,"Rural municipalities, population 5,000 or more",11,0
+2016,Prince Edward Island,Solid waste,All municipalities,11,0
+2016,Prince Edward Island,Solid waste,All urban municipalities,11,0
+2016,Prince Edward Island,Solid waste,"Urban municipalities, population 1 to 4,999",11,0
+2016,Prince Edward Island,Solid waste,"Urban municipalities, population 5,000 to 29,999",11,0
+2016,Prince Edward Island,Solid waste,"Urban municipalities, population 30,000 or more",11,0
+2016,Prince Edward Island,Solid waste,All rural municipalities,11,0
+2016,Prince Edward Island,Solid waste,"Rural municipalities, population 1 to 4,999",11,0
+2016,Prince Edward Island,Solid waste,"Rural municipalities, population 5,000 or more",11,0
+2016,Nova Scotia,Potable water,All municipalities,12,56.67
+2016,Nova Scotia,Potable water,All urban municipalities,12,55.56
+2016,Nova Scotia,Potable water,"Urban municipalities, population 1 to 4,999",12,33.33
+2016,Nova Scotia,Potable water,"Urban municipalities, population 5,000 to 29,999",12,50
+2016,Nova Scotia,Potable water,"Urban municipalities, population 30,000 or more",12,100
+2016,Nova Scotia,Potable water,All rural municipalities,12,57.14
+2016,Nova Scotia,Potable water,"Rural municipalities, population 1 to 4,999",12,60
+2016,Nova Scotia,Potable water,"Rural municipalities, population 5,000 or more",12,50
+2016,Nova Scotia,Stormwater,All municipalities,12,80
+2016,Nova Scotia,Stormwater,All urban municipalities,12,90
+2016,Nova Scotia,Stormwater,"Urban municipalities, population 1 to 4,999",12,100
+2016,Nova Scotia,Stormwater,"Urban municipalities, population 5,000 to 29,999",12,80
+2016,Nova Scotia,Stormwater,"Urban municipalities, population 30,000 or more",12,100
+2016,Nova Scotia,Stormwater,All rural municipalities,12,75
+2016,Nova Scotia,Stormwater,"Rural municipalities, population 1 to 4,999",12,69.23
+2016,Nova Scotia,Stormwater,"Rural municipalities, population 5,000 or more",12,85.71
+2016,Nova Scotia,Wastewater,All municipalities,12,68.42
+2016,Nova Scotia,Wastewater,All urban municipalities,12,70
+2016,Nova Scotia,Wastewater,"Urban municipalities, population 1 to 4,999",12,33.33
+2016,Nova Scotia,Wastewater,"Urban municipalities, population 5,000 to 29,999",12,80
+2016,Nova Scotia,Wastewater,"Urban municipalities, population 30,000 or more",12,100
+2016,Nova Scotia,Wastewater,All rural municipalities,12,67.86
+2016,Nova Scotia,Wastewater,"Rural municipalities, population 1 to 4,999",12,64.71
+2016,Nova Scotia,Wastewater,"Rural municipalities, population 5,000 or more",12,72.73
+2016,Nova Scotia,Solid waste,All municipalities,12,11.11
+2016,Nova Scotia,Solid waste,All urban municipalities,12,0
+2016,Nova Scotia,Solid waste,"Urban municipalities, population 1 to 4,999",12,0
+2016,Nova Scotia,Solid waste,"Urban municipalities, population 5,000 to 29,999",12,0
+2016,Nova Scotia,Solid waste,"Urban municipalities, population 30,000 or more",12,0
+2016,Nova Scotia,Solid waste,All rural municipalities,12,14.29
+2016,Nova Scotia,Solid waste,"Rural municipalities, population 1 to 4,999",12,0
+2016,Nova Scotia,Solid waste,"Rural municipalities, population 5,000 or more",12,25
+2016,New Brunswick,Potable water,All municipalities,13,43.14
+2016,New Brunswick,Potable water,All urban municipalities,13,39.13
+2016,New Brunswick,Potable water,"Urban municipalities, population 1 to 4,999",13,41.67
+2016,New Brunswick,Potable water,"Urban municipalities, population 5,000 to 29,999",13,50
+2016,New Brunswick,Potable water,"Urban municipalities, population 30,000 or more",13,0
+2016,New Brunswick,Potable water,All rural municipalities,13,46.43
+2016,New Brunswick,Potable water,"Rural municipalities, population 1 to 4,999",13,45.83
+2016,New Brunswick,Potable water,"Rural municipalities, population 5,000 or more",13,20
+2016,New Brunswick,Stormwater,All municipalities,13,59.02
+2016,New Brunswick,Stormwater,All urban municipalities,13,55.56
+2016,New Brunswick,Stormwater,"Urban municipalities, population 1 to 4,999",13,50
+2016,New Brunswick,Stormwater,"Urban municipalities, population 5,000 to 29,999",13,75
+2016,New Brunswick,Stormwater,"Urban municipalities, population 30,000 or more",13,66.67
+2016,New Brunswick,Stormwater,All rural municipalities,13,61.76
+2016,New Brunswick,Stormwater,"Rural municipalities, population 1 to 4,999",13,65.52
+2016,New Brunswick,Stormwater,"Rural municipalities, population 5,000 or more",13,60
+2016,New Brunswick,Wastewater,All municipalities,13,43.55
+2016,New Brunswick,Wastewater,All urban municipalities,13,46.43
+2016,New Brunswick,Wastewater,"Urban municipalities, population 1 to 4,999",13,41.18
+2016,New Brunswick,Wastewater,"Urban municipalities, population 5,000 to 29,999",13,75
+2016,New Brunswick,Wastewater,"Urban municipalities, population 30,000 or more",13,0
+2016,New Brunswick,Wastewater,All rural municipalities,13,44.12
+2016,New Brunswick,Wastewater,"Rural municipalities, population 1 to 4,999",13,50
+2016,New Brunswick,Wastewater,"Rural municipalities, population 5,000 or more",13,0
+2016,New Brunswick,Solid waste,All municipalities,13,5
+2016,New Brunswick,Solid waste,All urban municipalities,13,0
+2016,New Brunswick,Solid waste,"Urban municipalities, population 1 to 4,999",13,0
+2016,New Brunswick,Solid waste,"Urban municipalities, population 5,000 to 29,999",13,0
+2016,New Brunswick,Solid waste,"Urban municipalities, population 30,000 or more",13,0
+2016,New Brunswick,Solid waste,All rural municipalities,13,7.69
+2016,New Brunswick,Solid waste,"Rural municipalities, population 1 to 4,999",13,10
+2016,New Brunswick,Solid waste,"Rural municipalities, population 5,000 or more",13,0
+2016,Quebec,Potable water,All municipalities,24,26.7
+2016,Quebec,Potable water,All urban municipalities,24,25.81
+2016,Quebec,Potable water,"Urban municipalities, population 1 to 4,999",24,18.92
+2016,Quebec,Potable water,"Urban municipalities, population 5,000 to 29,999",24,32.89
+2016,Quebec,Potable water,"Urban municipalities, population 30,000 or more",24,25
+2016,Quebec,Potable water,All rural municipalities,24,27.13
+2016,Quebec,Potable water,"Rural municipalities, population 1 to 4,999",24,0
+2016,Quebec,Potable water,"Rural municipalities, population 5,000 or more",24,42.86
+2016,Quebec,Stormwater,All municipalities,24,45.7
+2016,Quebec,Stormwater,All urban municipalities,24,55.96
+2016,Quebec,Stormwater,"Urban municipalities, population 1 to 4,999",24,31.94
+2016,Quebec,Stormwater,"Urban municipalities, population 5,000 to 29,999",24,63.53
+2016,Quebec,Stormwater,"Urban municipalities, population 30,000 or more",24,86.11
+2016,Quebec,Stormwater,All rural municipalities,24,38.98
+2016,Quebec,Stormwater,"Rural municipalities, population 1 to 4,999",24,37.86
+2016,Quebec,Stormwater,"Rural municipalities, population 5,000 or more",24,44.23
+2016,Quebec,Wastewater,All municipalities,24,31.79
+2016,Quebec,Wastewater,All urban municipalities,24,33.5
+2016,Quebec,Wastewater,"Urban municipalities, population 1 to 4,999",24,21.52
+2016,Quebec,Wastewater,"Urban municipalities, population 5,000 to 29,999",24,34.94
+2016,Quebec,Wastewater,"Urban municipalities, population 30,000 or more",24,52.78
+2016,Quebec,Wastewater,All rural municipalities,24,30.85
+2016,Quebec,Wastewater,"Rural municipalities, population 1 to 4,999",24,31.07
+2016,Quebec,Wastewater,"Rural municipalities, population 5,000 or more",24,30.19
+2016,Quebec,Solid waste,All municipalities,24,0
+2016,Quebec,Solid waste,All urban municipalities,24,12.86
+2016,Quebec,Solid waste,"Urban municipalities, population 1 to 4,999",24,13.04
+2016,Quebec,Solid waste,"Urban municipalities, population 5,000 to 29,999",24,14.29
+2016,Quebec,Solid waste,"Urban municipalities, population 30,000 or more",24,5.26
+2016,Quebec,Solid waste,All rural municipalities,24,0
+2016,Quebec,Solid waste,"Rural municipalities, population 1 to 4,999",24,0
+2016,Quebec,Solid waste,"Rural municipalities, population 5,000 or more",24,12.5
+2016,Ontario,Potable water,All municipalities,35,23.98
+2016,Ontario,Potable water,All urban municipalities,35,28.7
+2016,Ontario,Potable water,"Urban municipalities, population 1 to 4,999",35,14.29
+2016,Ontario,Potable water,"Urban municipalities, population 5,000 to 29,999",35,34.55
+2016,Ontario,Potable water,"Urban municipalities, population 30,000 or more",35,21.74
+2016,Ontario,Potable water,All rural municipalities,35,20.29
+2016,Ontario,Potable water,"Rural municipalities, population 1 to 4,999",35,0
+2016,Ontario,Potable water,"Rural municipalities, population 5,000 or more",35,22.08
+2016,Ontario,Stormwater,All municipalities,35,51.14
+2016,Ontario,Stormwater,All urban municipalities,35,58.7
+2016,Ontario,Stormwater,"Urban municipalities, population 1 to 4,999",35,33.33
+2016,Ontario,Stormwater,"Urban municipalities, population 5,000 to 29,999",35,54.69
+2016,Ontario,Stormwater,"Urban municipalities, population 30,000 or more",35,71.19
+2016,Ontario,Stormwater,All rural municipalities,35,44.97
+2016,Ontario,Stormwater,"Rural municipalities, population 1 to 4,999",35,54.55
+2016,Ontario,Stormwater,"Rural municipalities, population 5,000 or more",35,36.96
+2016,Ontario,Wastewater,All municipalities,35,34.44
+2016,Ontario,Wastewater,All urban municipalities,35,37.96
+2016,Ontario,Wastewater,"Urban municipalities, population 1 to 4,999",35,0
+2016,Ontario,Wastewater,"Urban municipalities, population 5,000 to 29,999",35,42.31
+2016,Ontario,Wastewater,"Urban municipalities, population 30,000 or more",35,39.58
+2016,Ontario,Wastewater,All rural municipalities,35,30.83
+2016,Ontario,Wastewater,"Rural municipalities, population 1 to 4,999",35,30.65
+2016,Ontario,Wastewater,"Rural municipalities, population 5,000 or more",35,30.56
+2016,Ontario,Solid waste,All municipalities,35,10.87
+2016,Ontario,Solid waste,All urban municipalities,35,11.9
+2016,Ontario,Solid waste,"Urban municipalities, population 1 to 4,999",35,5.26
+2016,Ontario,Solid waste,"Urban municipalities, population 5,000 to 29,999",35,12.9
+2016,Ontario,Solid waste,"Urban municipalities, population 30,000 or more",35,14.29
+2016,Ontario,Solid waste,All rural municipalities,35,10.27
+2016,Ontario,Solid waste,"Rural municipalities, population 1 to 4,999",35,16.05
+2016,Ontario,Solid waste,"Rural municipalities, population 5,000 or more",35,3.12
+2016,Manitoba,Potable water,All municipalities,46,28.26
+2016,Manitoba,Potable water,All urban municipalities,46,31.82
+2016,Manitoba,Potable water,"Urban municipalities, population 1 to 4,999",46,14.29
+2016,Manitoba,Potable water,"Urban municipalities, population 5,000 to 29,999",46,38.46
+2016,Manitoba,Potable water,"Urban municipalities, population 30,000 or more",46,50
+2016,Manitoba,Potable water,All rural municipalities,46,27.14
+2016,Manitoba,Potable water,"Rural municipalities, population 1 to 4,999",46,27.87
+2016,Manitoba,Potable water,"Rural municipalities, population 5,000 or more",46,25
+2016,Manitoba,Stormwater,All municipalities,46,50.5
+2016,Manitoba,Stormwater,All urban municipalities,46,66.67
+2016,Manitoba,Stormwater,"Urban municipalities, population 1 to 4,999",46,0
+2016,Manitoba,Stormwater,"Urban municipalities, population 5,000 to 29,999",46,80
+2016,Manitoba,Stormwater,"Urban municipalities, population 30,000 or more",46,100
+2016,Manitoba,Stormwater,All rural municipalities,46,48.24
+2016,Manitoba,Stormwater,"Rural municipalities, population 1 to 4,999",46,49.32
+2016,Manitoba,Stormwater,"Rural municipalities, population 5,000 or more",46,41.67
+2016,Manitoba,Wastewater,All municipalities,46,31.62
+2016,Manitoba,Wastewater,All urban municipalities,46,28.57
+2016,Manitoba,Wastewater,"Urban municipalities, population 1 to 4,999",46,0
+2016,Manitoba,Wastewater,"Urban municipalities, population 5,000 to 29,999",46,38.46
+2016,Manitoba,Wastewater,"Urban municipalities, population 30,000 or more",46,50
+2016,Manitoba,Wastewater,All rural municipalities,46,32.29
+2016,Manitoba,Wastewater,"Rural municipalities, population 1 to 4,999",46,31.76
+2016,Manitoba,Wastewater,"Rural municipalities, population 5,000 or more",46,33.33
+2016,Manitoba,Solid waste,All municipalities,46,14.81
+2016,Manitoba,Solid waste,All urban municipalities,46,27.78
+2016,Manitoba,Solid waste,"Urban municipalities, population 1 to 4,999",46,0
+2016,Manitoba,Solid waste,"Urban municipalities, population 5,000 to 29,999",46,41.67
+2016,Manitoba,Solid waste,"Urban municipalities, population 30,000 or more",46,0
+2016,Manitoba,Solid waste,All rural municipalities,46,0
+2016,Manitoba,Solid waste,"Rural municipalities, population 1 to 4,999",46,0
+2016,Manitoba,Solid waste,"Rural municipalities, population 5,000 or more",46,0
+2016,Saskatchewan,Potable water,All municipalities,47,14.29
+2016,Saskatchewan,Potable water,All urban municipalities,47,21.15
+2016,Saskatchewan,Potable water,"Urban municipalities, population 1 to 4,999",47,17.95
+2016,Saskatchewan,Potable water,"Urban municipalities, population 5,000 to 29,999",47,11.11
+2016,Saskatchewan,Potable water,"Urban municipalities, population 30,000 or more",47,75
+2016,Saskatchewan,Potable water,All rural municipalities,47,10
+2016,Saskatchewan,Potable water,"Rural municipalities, population 1 to 4,999",47,10.53
+2016,Saskatchewan,Potable water,"Rural municipalities, population 5,000 or more",47,0
+2016,Saskatchewan,Stormwater,All municipalities,47,31.87
+2016,Saskatchewan,Stormwater,All urban municipalities,47,41.03
+2016,Saskatchewan,Stormwater,"Urban municipalities, population 1 to 4,999",47,34.62
+2016,Saskatchewan,Stormwater,"Urban municipalities, population 5,000 to 29,999",47,44.44
+2016,Saskatchewan,Stormwater,"Urban municipalities, population 30,000 or more",47,75
+2016,Saskatchewan,Stormwater,All rural municipalities,47,25
+2016,Saskatchewan,Stormwater,"Rural municipalities, population 1 to 4,999",47,24.49
+2016,Saskatchewan,Stormwater,"Rural municipalities, population 5,000 or more",47,33.33
+2016,Saskatchewan,Wastewater,All municipalities,47,24.27
+2016,Saskatchewan,Wastewater,All urban municipalities,47,39.13
+2016,Saskatchewan,Wastewater,"Urban municipalities, population 1 to 4,999",47,41.18
+2016,Saskatchewan,Wastewater,"Urban municipalities, population 5,000 to 29,999",47,12.5
+2016,Saskatchewan,Wastewater,"Urban municipalities, population 30,000 or more",47,75
+2016,Saskatchewan,Wastewater,All rural municipalities,47,12.07
+2016,Saskatchewan,Wastewater,"Rural municipalities, population 1 to 4,999",47,10.91
+2016,Saskatchewan,Wastewater,"Rural municipalities, population 5,000 or more",47,33.33
+2016,Saskatchewan,Solid waste,All municipalities,47,11
+2016,Saskatchewan,Solid waste,All urban municipalities,47,19.44
+2016,Saskatchewan,Solid waste,"Urban municipalities, population 1 to 4,999",47,16
+2016,Saskatchewan,Solid waste,"Urban municipalities, population 5,000 to 29,999",47,14.29
+2016,Saskatchewan,Solid waste,"Urban municipalities, population 30,000 or more",47,50
+2016,Saskatchewan,Solid waste,All rural municipalities,47,6.35
+2016,Saskatchewan,Solid waste,"Rural municipalities, population 1 to 4,999",47,6.56
+2016,Saskatchewan,Solid waste,"Rural municipalities, population 5,000 or more",47,0
+2016,Alberta,Potable water,All municipalities,48,28.26
+2016,Alberta,Potable water,All urban municipalities,48,35.59
+2016,Alberta,Potable water,"Urban municipalities, population 1 to 4,999",48,20
+2016,Alberta,Potable water,"Urban municipalities, population 5,000 to 29,999",48,29.63
+2016,Alberta,Potable water,"Urban municipalities, population 30,000 or more",48,66.67
+2016,Alberta,Potable water,All rural municipalities,48,24.8
+2016,Alberta,Potable water,"Rural municipalities, population 1 to 4,999",48,27.16
+2016,Alberta,Potable water,"Rural municipalities, population 5,000 or more",48,20
+2016,Alberta,Stormwater,All municipalities,48,45.4
+2016,Alberta,Stormwater,All urban municipalities,48,46.03
+2016,Alberta,Stormwater,"Urban municipalities, population 1 to 4,999",48,27.27
+2016,Alberta,Stormwater,"Urban municipalities, population 5,000 to 29,999",48,51.85
+2016,Alberta,Stormwater,"Urban municipalities, population 30,000 or more",48,69.23
+2016,Alberta,Stormwater,All rural municipalities,48,44.55
+2016,Alberta,Stormwater,"Rural municipalities, population 1 to 4,999",48,40.98
+2016,Alberta,Stormwater,"Rural municipalities, population 5,000 or more",48,51.28
+2016,Alberta,Wastewater,All municipalities,48,31.02
+2016,Alberta,Wastewater,All urban municipalities,48,38.1
+2016,Alberta,Wastewater,"Urban municipalities, population 1 to 4,999",48,29.17
+2016,Alberta,Wastewater,"Urban municipalities, population 5,000 to 29,999",48,40.74
+2016,Alberta,Wastewater,"Urban municipalities, population 30,000 or more",48,50
+2016,Alberta,Wastewater,All rural municipalities,48,28.23
+2016,Alberta,Wastewater,"Rural municipalities, population 1 to 4,999",48,24.36
+2016,Alberta,Wastewater,"Rural municipalities, population 5,000 or more",48,34.78
+2016,Alberta,Solid waste,All municipalities,48,21.37
+2016,Alberta,Solid waste,All urban municipalities,48,30.23
+2016,Alberta,Solid waste,"Urban municipalities, population 1 to 4,999",48,9.09
+2016,Alberta,Solid waste,"Urban municipalities, population 5,000 to 29,999",48,30
+2016,Alberta,Solid waste,"Urban municipalities, population 30,000 or more",48,50
+2016,Alberta,Solid waste,All rural municipalities,48,17.05
+2016,Alberta,Solid waste,"Rural municipalities, population 1 to 4,999",48,21.82
+2016,Alberta,Solid waste,"Rural municipalities, population 5,000 or more",48,6.25
+2016,British Columbia,Potable water,All municipalities,59,54.17
+2016,British Columbia,Potable water,All urban municipalities,59,64.06
+2016,British Columbia,Potable water,"Urban municipalities, population 1 to 4,999",59,41.67
+2016,British Columbia,Potable water,"Urban municipalities, population 5,000 to 29,999",59,62.96
+2016,British Columbia,Potable water,"Urban municipalities, population 30,000 or more",59,73.08
+2016,British Columbia,Potable water,All rural municipalities,59,42.86
+2016,British Columbia,Potable water,"Rural municipalities, population 1 to 4,999",59,42.5
+2016,British Columbia,Potable water,"Rural municipalities, population 5,000 or more",59,43.75
+2016,British Columbia,Stormwater,All municipalities,59,76.56
+2016,British Columbia,Stormwater,All urban municipalities,59,85.92
+2016,British Columbia,Stormwater,"Urban municipalities, population 1 to 4,999",59,72.73
+2016,British Columbia,Stormwater,"Urban municipalities, population 5,000 to 29,999",59,93.75
+2016,British Columbia,Stormwater,"Urban municipalities, population 30,000 or more",59,85.71
+2016,British Columbia,Stormwater,All rural municipalities,59,64.91
+2016,British Columbia,Stormwater,"Rural municipalities, population 1 to 4,999",59,62.5
+2016,British Columbia,Stormwater,"Rural municipalities, population 5,000 or more",59,70.59
+2016,British Columbia,Wastewater,All municipalities,59,54.33
+2016,British Columbia,Wastewater,All urban municipalities,59,58.57
+2016,British Columbia,Wastewater,"Urban municipalities, population 1 to 4,999",59,30
+2016,British Columbia,Wastewater,"Urban municipalities, population 5,000 to 29,999",59,62.5
+2016,British Columbia,Wastewater,"Urban municipalities, population 30,000 or more",59,64.29
+2016,British Columbia,Wastewater,All rural municipalities,59,47.37
+2016,British Columbia,Wastewater,"Rural municipalities, population 1 to 4,999",59,53.66
+2016,British Columbia,Wastewater,"Rural municipalities, population 5,000 or more",59,31.25
+2016,British Columbia,Solid waste,All municipalities,59,22.89
+2016,British Columbia,Solid waste,All urban municipalities,59,25
+2016,British Columbia,Solid waste,"Urban municipalities, population 1 to 4,999",59,0
+2016,British Columbia,Solid waste,"Urban municipalities, population 5,000 to 29,999",59,22.22
+2016,British Columbia,Solid waste,"Urban municipalities, population 30,000 or more",59,36.36
+2016,British Columbia,Solid waste,All rural municipalities,59,20.59
+2016,British Columbia,Solid waste,"Rural municipalities, population 1 to 4,999",59,20.83
+2016,British Columbia,Solid waste,"Rural municipalities, population 5,000 or more",59,30
+2016,Yukon,Potable water,All municipalities,60,50
+2016,Yukon,Potable water,All urban municipalities,60,0
+2016,Yukon,Potable water,"Urban municipalities, population 1 to 4,999",60,0
+2016,Yukon,Potable water,"Urban municipalities, population 5,000 to 29,999",60,0
+2016,Yukon,Potable water,"Urban municipalities, population 30,000 or more",60,0
+2016,Yukon,Potable water,All rural municipalities,60,100
+2016,Yukon,Potable water,"Rural municipalities, population 1 to 4,999",60,100
+2016,Yukon,Potable water,"Rural municipalities, population 5,000 or more",60,0
+2016,Yukon,Stormwater,All municipalities,60,50
+2016,Yukon,Stormwater,All urban municipalities,60,0
+2016,Yukon,Stormwater,"Urban municipalities, population 1 to 4,999",60,0
+2016,Yukon,Stormwater,"Urban municipalities, population 5,000 to 29,999",60,0
+2016,Yukon,Stormwater,"Urban municipalities, population 30,000 or more",60,0
+2016,Yukon,Stormwater,All rural municipalities,60,100
+2016,Yukon,Stormwater,"Rural municipalities, population 1 to 4,999",60,100
+2016,Yukon,Stormwater,"Rural municipalities, population 5,000 or more",60,0
+2016,Yukon,Wastewater,All municipalities,60,50
+2016,Yukon,Wastewater,All urban municipalities,60,0
+2016,Yukon,Wastewater,"Urban municipalities, population 1 to 4,999",60,0
+2016,Yukon,Wastewater,"Urban municipalities, population 5,000 to 29,999",60,0
+2016,Yukon,Wastewater,"Urban municipalities, population 30,000 or more",60,0
+2016,Yukon,Wastewater,All rural municipalities,60,100
+2016,Yukon,Wastewater,"Rural municipalities, population 1 to 4,999",60,100
+2016,Yukon,Wastewater,"Rural municipalities, population 5,000 or more",60,0
+2016,Yukon,Solid waste,All municipalities,60,50
+2016,Yukon,Solid waste,All urban municipalities,60,0
+2016,Yukon,Solid waste,"Urban municipalities, population 1 to 4,999",60,0
+2016,Yukon,Solid waste,"Urban municipalities, population 5,000 to 29,999",60,0
+2016,Yukon,Solid waste,"Urban municipalities, population 30,000 or more",60,0
+2016,Yukon,Solid waste,All rural municipalities,60,100
+2016,Yukon,Solid waste,"Rural municipalities, population 1 to 4,999",60,100
+2016,Yukon,Solid waste,"Rural municipalities, population 5,000 or more",60,0
+2016,Northwest Territories,Potable water,All municipalities,61,16.67
+2016,Northwest Territories,Potable water,All urban municipalities,61,0
+2016,Northwest Territories,Potable water,"Urban municipalities, population 1 to 4,999",61,0
+2016,Northwest Territories,Potable water,"Urban municipalities, population 5,000 to 29,999",61,0
+2016,Northwest Territories,Potable water,"Urban municipalities, population 30,000 or more",61,0
+2016,Northwest Territories,Potable water,All rural municipalities,61,20
+2016,Northwest Territories,Potable water,"Rural municipalities, population 1 to 4,999",61,20
+2016,Northwest Territories,Potable water,"Rural municipalities, population 5,000 or more",61,0
+2016,Northwest Territories,Stormwater,All municipalities,61,0
+2016,Northwest Territories,Stormwater,All urban municipalities,61,0
+2016,Northwest Territories,Stormwater,"Urban municipalities, population 1 to 4,999",61,0
+2016,Northwest Territories,Stormwater,"Urban municipalities, population 5,000 to 29,999",61,0
+2016,Northwest Territories,Stormwater,"Urban municipalities, population 30,000 or more",61,0
+2016,Northwest Territories,Stormwater,All rural municipalities,61,0
+2016,Northwest Territories,Stormwater,"Rural municipalities, population 1 to 4,999",61,0
+2016,Northwest Territories,Stormwater,"Rural municipalities, population 5,000 or more",61,0
+2016,Northwest Territories,Wastewater,All municipalities,61,16.67
+2016,Northwest Territories,Wastewater,All urban municipalities,61,0
+2016,Northwest Territories,Wastewater,"Urban municipalities, population 1 to 4,999",61,0
+2016,Northwest Territories,Wastewater,"Urban municipalities, population 5,000 to 29,999",61,0
+2016,Northwest Territories,Wastewater,"Urban municipalities, population 30,000 or more",61,0
+2016,Northwest Territories,Wastewater,All rural municipalities,61,20
+2016,Northwest Territories,Wastewater,"Rural municipalities, population 1 to 4,999",61,20
+2016,Northwest Territories,Wastewater,"Rural municipalities, population 5,000 or more",61,0
+2016,Northwest Territories,Solid waste,All municipalities,61,16.67
+2016,Northwest Territories,Solid waste,All urban municipalities,61,0
+2016,Northwest Territories,Solid waste,"Urban municipalities, population 1 to 4,999",61,0
+2016,Northwest Territories,Solid waste,"Urban municipalities, population 5,000 to 29,999",61,0
+2016,Northwest Territories,Solid waste,"Urban municipalities, population 30,000 or more",61,0
+2016,Northwest Territories,Solid waste,All rural municipalities,61,20
+2016,Northwest Territories,Solid waste,"Rural municipalities, population 1 to 4,999",61,20
+2016,Northwest Territories,Solid waste,"Rural municipalities, population 5,000 or more",61,0
+2016,Nunavut,Potable water,All municipalities,62,37.5
+2016,Nunavut,Potable water,All urban municipalities,62,0
+2016,Nunavut,Potable water,"Urban municipalities, population 1 to 4,999",62,0
+2016,Nunavut,Potable water,"Urban municipalities, population 5,000 to 29,999",62,0
+2016,Nunavut,Potable water,"Urban municipalities, population 30,000 or more",62,0
+2016,Nunavut,Potable water,All rural municipalities,62,37.5
+2016,Nunavut,Potable water,"Rural municipalities, population 1 to 4,999",62,28.57
+2016,Nunavut,Potable water,"Rural municipalities, population 5,000 or more",62,100
+2016,Nunavut,Stormwater,All municipalities,62,0
+2016,Nunavut,Stormwater,All urban municipalities,62,0
+2016,Nunavut,Stormwater,"Urban municipalities, population 1 to 4,999",62,0
+2016,Nunavut,Stormwater,"Urban municipalities, population 5,000 to 29,999",62,0
+2016,Nunavut,Stormwater,"Urban municipalities, population 30,000 or more",62,0
+2016,Nunavut,Stormwater,All rural municipalities,62,0
+2016,Nunavut,Stormwater,"Rural municipalities, population 1 to 4,999",62,0
+2016,Nunavut,Stormwater,"Rural municipalities, population 5,000 or more",62,0
+2016,Nunavut,Wastewater,All municipalities,62,40
+2016,Nunavut,Wastewater,All urban municipalities,62,0
+2016,Nunavut,Wastewater,"Urban municipalities, population 1 to 4,999",62,0
+2016,Nunavut,Wastewater,"Urban municipalities, population 5,000 to 29,999",62,0
+2016,Nunavut,Wastewater,"Urban municipalities, population 30,000 or more",62,0
+2016,Nunavut,Wastewater,All rural municipalities,62,40
+2016,Nunavut,Wastewater,"Rural municipalities, population 1 to 4,999",62,44.44
+2016,Nunavut,Wastewater,"Rural municipalities, population 5,000 or more",62,0
+2016,Nunavut,Solid waste,All municipalities,62,33.33
+2016,Nunavut,Solid waste,All urban municipalities,62,0
+2016,Nunavut,Solid waste,"Urban municipalities, population 1 to 4,999",62,0
+2016,Nunavut,Solid waste,"Urban municipalities, population 5,000 to 29,999",62,0
+2016,Nunavut,Solid waste,"Urban municipalities, population 30,000 or more",62,0
+2016,Nunavut,Solid waste,All rural municipalities,62,33.33
+2016,Nunavut,Solid waste,"Rural municipalities, population 1 to 4,999",62,36.36
+2016,Nunavut,Solid waste,"Rural municipalities, population 5,000 or more",62,0
+2018,Canada,Potable water,All municipalities,null,42.47
+2018,Canada,Potable water,All urban municipalities,null,55.5
+2018,Canada,Potable water,"Urban municipalities, population 1 to 4,999",null,50.76
+2018,Canada,Potable water,"Urban municipalities, population 5,000 to 29,999",null,63.74
+2018,Canada,Potable water,"Urban municipalities, population 30,000 or more",null,52.46
+2018,Canada,Potable water,All rural municipalities,null,37.79
+2018,Canada,Potable water,"Rural municipalities, population 1 to 4,999",null,36.31
+2018,Canada,Potable water,"Rural municipalities, population 5,000 or more",null,49.01
+2018,Canada,Stormwater,All municipalities,null,50.18
+2018,Canada,Stormwater,All urban municipalities,null,61.77
+2018,Canada,Stormwater,"Urban municipalities, population 1 to 4,999",null,52.21
+2018,Canada,Stormwater,"Urban municipalities, population 5,000 to 29,999",null,71.33
+2018,Canada,Stormwater,"Urban municipalities, population 30,000 or more",null,69.06
+2018,Canada,Stormwater,All rural municipalities,null,45.37
+2018,Canada,Stormwater,"Rural municipalities, population 1 to 4,999",null,43.42
+2018,Canada,Stormwater,"Rural municipalities, population 5,000 or more",null,56.47
+2018,Canada,Wastewater,All municipalities,null,43.9
+2018,Canada,Wastewater,All urban municipalities,null,55.84
+2018,Canada,Wastewater,"Urban municipalities, population 1 to 4,999",null,49.39
+2018,Canada,Wastewater,"Urban municipalities, population 5,000 to 29,999",null,65.59
+2018,Canada,Wastewater,"Urban municipalities, population 30,000 or more",null,55.12
+2018,Canada,Wastewater,All rural municipalities,null,39.78
+2018,Canada,Wastewater,"Rural municipalities, population 1 to 4,999",null,38.21
+2018,Canada,Wastewater,"Rural municipalities, population 5,000 or more",null,52.4
+2018,Canada,Solid waste,All municipalities,null,30.16
+2018,Canada,Solid waste,All urban municipalities,null,37.08
+2018,Canada,Solid waste,"Urban municipalities, population 1 to 4,999",null,34.52
+2018,Canada,Solid waste,"Urban municipalities, population 5,000 to 29,999",null,39.52
+2018,Canada,Solid waste,"Urban municipalities, population 30,000 or more",null,40.23
+2018,Canada,Solid waste,All rural municipalities,null,27.72
+2018,Canada,Solid waste,"Rural municipalities, population 1 to 4,999",null,27.35
+2018,Canada,Solid waste,"Rural municipalities, population 5,000 or more",null,31.18
+2018,Newfoundland and Labrador,Potable water,All municipalities,10,36.97
+2018,Newfoundland and Labrador,Potable water,All urban municipalities,10,54.05
+2018,Newfoundland and Labrador,Potable water,"Urban municipalities, population 1 to 4,999",10,36.36
+2018,Newfoundland and Labrador,Potable water,"Urban municipalities, population 5,000 to 29,999",10,73.33
+2018,Newfoundland and Labrador,Potable water,"Urban municipalities, population 30,000 or more",10,100
+2018,Newfoundland and Labrador,Potable water,All rural municipalities,10,34.55
+2018,Newfoundland and Labrador,Potable water,"Rural municipalities, population 1 to 4,999",10,34.16
+2018,Newfoundland and Labrador,Potable water,"Rural municipalities, population 5,000 or more",10,33.33
+2018,Newfoundland and Labrador,Stormwater,All municipalities,10,50.6
+2018,Newfoundland and Labrador,Stormwater,All urban municipalities,10,67.65
+2018,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 1 to 4,999",10,57.89
+2018,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 5,000 to 29,999",10,73.33
+2018,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 30,000 or more",10,100
+2018,Newfoundland and Labrador,Stormwater,All rural municipalities,10,46.27
+2018,Newfoundland and Labrador,Stormwater,"Rural municipalities, population 1 to 4,999",10,45.8
+2018,Newfoundland and Labrador,Stormwater,"Rural municipalities, population 5,000 or more",10,66.67
+2018,Newfoundland and Labrador,Wastewater,All municipalities,10,36.4
+2018,Newfoundland and Labrador,Wastewater,All urban municipalities,10,54.05
+2018,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 1 to 4,999",10,36.36
+2018,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 5,000 to 29,999",10,73.33
+2018,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 30,000 or more",10,100
+2018,Newfoundland and Labrador,Wastewater,All rural municipalities,10,33.76
+2018,Newfoundland and Labrador,Wastewater,"Rural municipalities, population 1 to 4,999",10,33.33
+2018,Newfoundland and Labrador,Wastewater,"Rural municipalities, population 5,000 or more",10,66.67
+2018,Newfoundland and Labrador,Solid waste,All municipalities,10,34.68
+2018,Newfoundland and Labrador,Solid waste,All urban municipalities,10,54.17
+2018,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 1 to 4,999",10,54.55
+2018,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 5,000 to 29,999",10,50
+2018,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 30,000 or more",10,100
+2018,Newfoundland and Labrador,Solid waste,All rural municipalities,10,31.54
+2018,Newfoundland and Labrador,Solid waste,"Rural municipalities, population 1 to 4,999",10,29.93
+2018,Newfoundland and Labrador,Solid waste,"Rural municipalities, population 5,000 or more",10,100
+2018,Prince Edward Island,Potable water,All municipalities,11,45
+2018,Prince Edward Island,Potable water,All urban municipalities,11,44.44
+2018,Prince Edward Island,Potable water,"Urban municipalities, population 1 to 4,999",11,0
+2018,Prince Edward Island,Potable water,"Urban municipalities, population 5,000 to 29,999",11,100
+2018,Prince Edward Island,Potable water,"Urban municipalities, population 30,000 or more",11,100
+2018,Prince Edward Island,Potable water,All rural municipalities,11,45.16
+2018,Prince Edward Island,Potable water,"Rural municipalities, population 1 to 4,999",11,37.93
+2018,Prince Edward Island,Potable water,"Rural municipalities, population 5,000 or more",11,100
+2018,Prince Edward Island,Stormwater,All municipalities,11,50
+2018,Prince Edward Island,Stormwater,All urban municipalities,11,37.5
+2018,Prince Edward Island,Stormwater,"Urban municipalities, population 1 to 4,999",11,0
+2018,Prince Edward Island,Stormwater,"Urban municipalities, population 5,000 to 29,999",11,100
+2018,Prince Edward Island,Stormwater,"Urban municipalities, population 30,000 or more",11,100
+2018,Prince Edward Island,Stormwater,All rural municipalities,11,54.55
+2018,Prince Edward Island,Stormwater,"Rural municipalities, population 1 to 4,999",11,54.55
+2018,Prince Edward Island,Stormwater,"Rural municipalities, population 5,000 or more",11,0
+2018,Prince Edward Island,Wastewater,All municipalities,11,35.8
+2018,Prince Edward Island,Wastewater,All urban municipalities,11,21.43
+2018,Prince Edward Island,Wastewater,"Urban municipalities, population 1 to 4,999",11,0
+2018,Prince Edward Island,Wastewater,"Urban municipalities, population 5,000 to 29,999",11,100
+2018,Prince Edward Island,Wastewater,"Urban municipalities, population 30,000 or more",11,0
+2018,Prince Edward Island,Wastewater,All rural municipalities,11,38.81
+2018,Prince Edward Island,Wastewater,"Rural municipalities, population 1 to 4,999",11,36.92
+2018,Prince Edward Island,Wastewater,"Rural municipalities, population 5,000 or more",11,100
+2018,Prince Edward Island,Solid waste,All municipalities,11,0
+2018,Prince Edward Island,Solid waste,All urban municipalities,11,0
+2018,Prince Edward Island,Solid waste,"Urban municipalities, population 1 to 4,999",11,0
+2018,Prince Edward Island,Solid waste,"Urban municipalities, population 5,000 to 29,999",11,0
+2018,Prince Edward Island,Solid waste,"Urban municipalities, population 30,000 or more",11,0
+2018,Prince Edward Island,Solid waste,All rural municipalities,11,0
+2018,Prince Edward Island,Solid waste,"Rural municipalities, population 1 to 4,999",11,0
+2018,Prince Edward Island,Solid waste,"Rural municipalities, population 5,000 or more",11,0
+2018,Nova Scotia,Potable water,All municipalities,12,58.49
+2018,Nova Scotia,Potable water,All urban municipalities,12,46.43
+2018,Nova Scotia,Potable water,"Urban municipalities, population 1 to 4,999",12,52.38
+2018,Nova Scotia,Potable water,"Urban municipalities, population 5,000 to 29,999",12,33.33
+2018,Nova Scotia,Potable water,"Urban municipalities, population 30,000 or more",12,0
+2018,Nova Scotia,Potable water,All rural municipalities,12,72
+2018,Nova Scotia,Potable water,"Rural municipalities, population 1 to 4,999",12,65
+2018,Nova Scotia,Potable water,"Rural municipalities, population 5,000 or more",12,66.67
+2018,Nova Scotia,Stormwater,All municipalities,12,76.36
+2018,Nova Scotia,Stormwater,All urban municipalities,12,58.62
+2018,Nova Scotia,Stormwater,"Urban municipalities, population 1 to 4,999",12,66.67
+2018,Nova Scotia,Stormwater,"Urban municipalities, population 5,000 to 29,999",12,42.86
+2018,Nova Scotia,Stormwater,"Urban municipalities, population 30,000 or more",12,0
+2018,Nova Scotia,Stormwater,All rural municipalities,12,96.15
+2018,Nova Scotia,Stormwater,"Rural municipalities, population 1 to 4,999",12,100
+2018,Nova Scotia,Stormwater,"Rural municipalities, population 5,000 or more",12,87.5
+2018,Nova Scotia,Wastewater,All municipalities,12,68.57
+2018,Nova Scotia,Wastewater,All urban municipalities,12,55.17
+2018,Nova Scotia,Wastewater,"Urban municipalities, population 1 to 4,999",12,66.67
+2018,Nova Scotia,Wastewater,"Urban municipalities, population 5,000 to 29,999",12,28.57
+2018,Nova Scotia,Wastewater,"Urban municipalities, population 30,000 or more",12,0
+2018,Nova Scotia,Wastewater,All rural municipalities,12,78.05
+2018,Nova Scotia,Wastewater,"Rural municipalities, population 1 to 4,999",12,78.57
+2018,Nova Scotia,Wastewater,"Rural municipalities, population 5,000 or more",12,76.92
+2018,Nova Scotia,Solid waste,All municipalities,12,42.86
+2018,Nova Scotia,Solid waste,All urban municipalities,12,33.33
+2018,Nova Scotia,Solid waste,"Urban municipalities, population 1 to 4,999",12,100
+2018,Nova Scotia,Solid waste,"Urban municipalities, population 5,000 to 29,999",12,0
+2018,Nova Scotia,Solid waste,"Urban municipalities, population 30,000 or more",12,0
+2018,Nova Scotia,Solid waste,All rural municipalities,12,47.62
+2018,Nova Scotia,Solid waste,"Rural municipalities, population 1 to 4,999",12,58.33
+2018,Nova Scotia,Solid waste,"Rural municipalities, population 5,000 or more",12,33.33
+2018,New Brunswick,Potable water,All municipalities,13,64
+2018,New Brunswick,Potable water,All urban municipalities,13,58.54
+2018,New Brunswick,Potable water,"Urban municipalities, population 1 to 4,999",13,50
+2018,New Brunswick,Potable water,"Urban municipalities, population 5,000 to 29,999",13,78.57
+2018,New Brunswick,Potable water,"Urban municipalities, population 30,000 or more",13,33.33
+2018,New Brunswick,Potable water,All rural municipalities,13,66.06
+2018,New Brunswick,Potable water,"Rural municipalities, population 1 to 4,999",13,65.38
+2018,New Brunswick,Potable water,"Rural municipalities, population 5,000 or more",13,100
+2018,New Brunswick,Stormwater,All municipalities,13,60.75
+2018,New Brunswick,Stormwater,All urban municipalities,13,72.09
+2018,New Brunswick,Stormwater,"Urban municipalities, population 1 to 4,999",13,58.33
+2018,New Brunswick,Stormwater,"Urban municipalities, population 5,000 to 29,999",13,87.5
+2018,New Brunswick,Stormwater,"Urban municipalities, population 30,000 or more",13,66.67
+2018,New Brunswick,Stormwater,All rural municipalities,13,58.82
+2018,New Brunswick,Stormwater,"Rural municipalities, population 1 to 4,999",13,57.58
+2018,New Brunswick,Stormwater,"Rural municipalities, population 5,000 or more",13,100
+2018,New Brunswick,Wastewater,All municipalities,13,61.93
+2018,New Brunswick,Wastewater,All urban municipalities,13,59.52
+2018,New Brunswick,Wastewater,"Urban municipalities, population 1 to 4,999",13,50
+2018,New Brunswick,Wastewater,"Urban municipalities, population 5,000 to 29,999",13,80
+2018,New Brunswick,Wastewater,"Urban municipalities, population 30,000 or more",13,33.33
+2018,New Brunswick,Wastewater,All rural municipalities,13,61.94
+2018,New Brunswick,Wastewater,"Rural municipalities, population 1 to 4,999",13,61.33
+2018,New Brunswick,Wastewater,"Rural municipalities, population 5,000 or more",13,100
+2018,New Brunswick,Solid waste,All municipalities,13,37.78
+2018,New Brunswick,Solid waste,All urban municipalities,13,36.36
+2018,New Brunswick,Solid waste,"Urban municipalities, population 1 to 4,999",13,60
+2018,New Brunswick,Solid waste,"Urban municipalities, population 5,000 to 29,999",13,0
+2018,New Brunswick,Solid waste,"Urban municipalities, population 30,000 or more",13,50
+2018,New Brunswick,Solid waste,All rural municipalities,13,39.24
+2018,New Brunswick,Solid waste,"Rural municipalities, population 1 to 4,999",13,39.74
+2018,New Brunswick,Solid waste,"Rural municipalities, population 5,000 or more",13,0
+2018,Quebec,Potable water,All municipalities,24,46.52
+2018,Quebec,Potable water,All urban municipalities,24,64.97
+2018,Quebec,Potable water,"Urban municipalities, population 1 to 4,999",24,59.57
+2018,Quebec,Potable water,"Urban municipalities, population 5,000 to 29,999",24,67.53
+2018,Quebec,Potable water,"Urban municipalities, population 30,000 or more",24,66.67
+2018,Quebec,Potable water,All rural municipalities,24,42.26
+2018,Quebec,Potable water,"Rural municipalities, population 1 to 4,999",24,41.24
+2018,Quebec,Potable water,"Rural municipalities, population 5,000 or more",24,52.38
+2018,Quebec,Stormwater,All municipalities,24,50.29
+2018,Quebec,Stormwater,All urban municipalities,24,71.61
+2018,Quebec,Stormwater,"Urban municipalities, population 1 to 4,999",24,64.44
+2018,Quebec,Stormwater,"Urban municipalities, population 5,000 to 29,999",24,76.62
+2018,Quebec,Stormwater,"Urban municipalities, population 30,000 or more",24,72.73
+2018,Quebec,Stormwater,All rural municipalities,24,45.49
+2018,Quebec,Stormwater,"Rural municipalities, population 1 to 4,999",24,44.09
+2018,Quebec,Stormwater,"Rural municipalities, population 5,000 or more",24,59.38
+2018,Quebec,Wastewater,All municipalities,24,46.24
+2018,Quebec,Wastewater,All urban municipalities,24,64.33
+2018,Quebec,Wastewater,"Urban municipalities, population 1 to 4,999",24,54.17
+2018,Quebec,Wastewater,"Urban municipalities, population 5,000 to 29,999",24,69.74
+2018,Quebec,Wastewater,"Urban municipalities, population 30,000 or more",24,66.67
+2018,Quebec,Wastewater,All rural municipalities,24,42.38
+2018,Quebec,Wastewater,"Rural municipalities, population 1 to 4,999",24,41.61
+2018,Quebec,Wastewater,"Rural municipalities, population 5,000 or more",24,50.79
+2018,Quebec,Solid waste,All municipalities,24,32.55
+2018,Quebec,Solid waste,All urban municipalities,24,48.44
+2018,Quebec,Solid waste,"Urban municipalities, population 1 to 4,999",24,50
+2018,Quebec,Solid waste,"Urban municipalities, population 5,000 to 29,999",24,51.52
+2018,Quebec,Solid waste,"Urban municipalities, population 30,000 or more",24,40
+2018,Quebec,Solid waste,All rural municipalities,24,28.21
+2018,Quebec,Solid waste,"Rural municipalities, population 1 to 4,999",24,28.23
+2018,Quebec,Solid waste,"Rural municipalities, population 5,000 or more",24,28
+2018,Ontario,Potable water,All municipalities,35,41.53
+2018,Ontario,Potable water,All urban municipalities,35,43.96
+2018,Ontario,Potable water,"Urban municipalities, population 1 to 4,999",35,14.29
+2018,Ontario,Potable water,"Urban municipalities, population 5,000 to 29,999",35,56.41
+2018,Ontario,Potable water,"Urban municipalities, population 30,000 or more",35,39.47
+2018,Ontario,Potable water,All rural municipalities,35,40.48
+2018,Ontario,Potable water,"Rural municipalities, population 1 to 4,999",35,33
+2018,Ontario,Potable water,"Rural municipalities, population 5,000 or more",35,47.27
+2018,Ontario,Stormwater,All municipalities,35,53.67
+2018,Ontario,Stormwater,All urban municipalities,35,66.02
+2018,Ontario,Stormwater,"Urban municipalities, population 1 to 4,999",35,15.38
+2018,Ontario,Stormwater,"Urban municipalities, population 5,000 to 29,999",35,70
+2018,Ontario,Stormwater,"Urban municipalities, population 30,000 or more",35,72.55
+2018,Ontario,Stormwater,All rural municipalities,35,48.61
+2018,Ontario,Stormwater,"Rural municipalities, population 1 to 4,999",35,41.38
+2018,Ontario,Stormwater,"Rural municipalities, population 5,000 or more",35,54.81
+2018,Ontario,Wastewater,All municipalities,35,48.24
+2018,Ontario,Wastewater,All urban municipalities,35,56.52
+2018,Ontario,Wastewater,"Urban municipalities, population 1 to 4,999",35,14.29
+2018,Ontario,Wastewater,"Urban municipalities, population 5,000 to 29,999",35,71.05
+2018,Ontario,Wastewater,"Urban municipalities, population 30,000 or more",35,55
+2018,Ontario,Wastewater,All rural municipalities,35,44.56
+2018,Ontario,Wastewater,"Rural municipalities, population 1 to 4,999",35,37.63
+2018,Ontario,Wastewater,"Rural municipalities, population 5,000 or more",35,51
+2018,Ontario,Solid waste,All municipalities,35,35.82
+2018,Ontario,Solid waste,All urban municipalities,35,36.07
+2018,Ontario,Solid waste,"Urban municipalities, population 1 to 4,999",35,7.69
+2018,Ontario,Solid waste,"Urban municipalities, population 5,000 to 29,999",35,42.86
+2018,Ontario,Solid waste,"Urban municipalities, population 30,000 or more",35,44.44
+2018,Ontario,Solid waste,All rural municipalities,35,35.29
+2018,Ontario,Solid waste,"Rural municipalities, population 1 to 4,999",35,38.3
+2018,Ontario,Solid waste,"Rural municipalities, population 5,000 or more",35,29.63
+2018,Manitoba,Potable water,All municipalities,46,37.82
+2018,Manitoba,Potable water,All urban municipalities,46,53.85
+2018,Manitoba,Potable water,"Urban municipalities, population 1 to 4,999",46,46.15
+2018,Manitoba,Potable water,"Urban municipalities, population 5,000 to 29,999",46,54.55
+2018,Manitoba,Potable water,"Urban municipalities, population 30,000 or more",46,100
+2018,Manitoba,Potable water,All rural municipalities,46,32.26
+2018,Manitoba,Potable water,"Rural municipalities, population 1 to 4,999",46,30
+2018,Manitoba,Potable water,"Rural municipalities, population 5,000 or more",46,46.15
+2018,Manitoba,Stormwater,All municipalities,46,44.23
+2018,Manitoba,Stormwater,All urban municipalities,46,54.84
+2018,Manitoba,Stormwater,"Urban municipalities, population 1 to 4,999",46,52.94
+2018,Manitoba,Stormwater,"Urban municipalities, population 5,000 to 29,999",46,54.55
+2018,Manitoba,Stormwater,"Urban municipalities, population 30,000 or more",46,100
+2018,Manitoba,Stormwater,All rural municipalities,46,40.54
+2018,Manitoba,Stormwater,"Rural municipalities, population 1 to 4,999",46,40
+2018,Manitoba,Stormwater,"Rural municipalities, population 5,000 or more",46,42.86
+2018,Manitoba,Wastewater,All municipalities,46,45.93
+2018,Manitoba,Wastewater,All urban municipalities,46,54.84
+2018,Manitoba,Wastewater,"Urban municipalities, population 1 to 4,999",46,52.94
+2018,Manitoba,Wastewater,"Urban municipalities, population 5,000 to 29,999",46,54.55
+2018,Manitoba,Wastewater,"Urban municipalities, population 30,000 or more",46,100
+2018,Manitoba,Wastewater,All rural municipalities,46,43.27
+2018,Manitoba,Wastewater,"Rural municipalities, population 1 to 4,999",46,40.45
+2018,Manitoba,Wastewater,"Rural municipalities, population 5,000 or more",46,60
+2018,Manitoba,Solid waste,All municipalities,46,43.08
+2018,Manitoba,Solid waste,All urban municipalities,46,55.17
+2018,Manitoba,Solid waste,"Urban municipalities, population 1 to 4,999",46,62.5
+2018,Manitoba,Solid waste,"Urban municipalities, population 5,000 to 29,999",46,40
+2018,Manitoba,Solid waste,"Urban municipalities, population 30,000 or more",46,100
+2018,Manitoba,Solid waste,All rural municipalities,46,39.6
+2018,Manitoba,Solid waste,"Rural municipalities, population 1 to 4,999",46,40
+2018,Manitoba,Solid waste,"Rural municipalities, population 5,000 or more",46,36.36
+2018,Saskatchewan,Potable water,All municipalities,47,30.61
+2018,Saskatchewan,Potable water,All urban municipalities,47,50
+2018,Saskatchewan,Potable water,"Urban municipalities, population 1 to 4,999",47,48.78
+2018,Saskatchewan,Potable water,"Urban municipalities, population 5,000 to 29,999",47,58.33
+2018,Saskatchewan,Potable water,"Urban municipalities, population 30,000 or more",47,50
+2018,Saskatchewan,Potable water,All rural municipalities,47,25.77
+2018,Saskatchewan,Potable water,"Rural municipalities, population 1 to 4,999",47,25.9
+2018,Saskatchewan,Potable water,"Rural municipalities, population 5,000 or more",47,0
+2018,Saskatchewan,Stormwater,All municipalities,47,35.6
+2018,Saskatchewan,Stormwater,All urban municipalities,47,40
+2018,Saskatchewan,Stormwater,"Urban municipalities, population 1 to 4,999",47,33.78
+2018,Saskatchewan,Stormwater,"Urban municipalities, population 5,000 to 29,999",47,58.33
+2018,Saskatchewan,Stormwater,"Urban municipalities, population 30,000 or more",47,100
+2018,Saskatchewan,Stormwater,All rural municipalities,47,33.79
+2018,Saskatchewan,Stormwater,"Rural municipalities, population 1 to 4,999",47,33.94
+2018,Saskatchewan,Stormwater,"Rural municipalities, population 5,000 or more",47,0
+2018,Saskatchewan,Wastewater,All municipalities,47,32.86
+2018,Saskatchewan,Wastewater,All urban municipalities,47,44.9
+2018,Saskatchewan,Wastewater,"Urban municipalities, population 1 to 4,999",47,41.46
+2018,Saskatchewan,Wastewater,"Urban municipalities, population 5,000 to 29,999",47,58.33
+2018,Saskatchewan,Wastewater,"Urban municipalities, population 30,000 or more",47,75
+2018,Saskatchewan,Wastewater,All rural municipalities,47,29.85
+2018,Saskatchewan,Wastewater,"Rural municipalities, population 1 to 4,999",47,29.85
+2018,Saskatchewan,Wastewater,"Rural municipalities, population 5,000 or more",47,0
+2018,Saskatchewan,Solid waste,All municipalities,47,22.49
+2018,Saskatchewan,Solid waste,All urban municipalities,47,34.52
+2018,Saskatchewan,Solid waste,"Urban municipalities, population 1 to 4,999",47,32.39
+2018,Saskatchewan,Solid waste,"Urban municipalities, population 5,000 to 29,999",47,55.56
+2018,Saskatchewan,Solid waste,"Urban municipalities, population 30,000 or more",47,50
+2018,Saskatchewan,Solid waste,All rural municipalities,47,19.73
+2018,Saskatchewan,Solid waste,"Rural municipalities, population 1 to 4,999",47,19.78
+2018,Saskatchewan,Solid waste,"Rural municipalities, population 5,000 or more",47,0
+2018,Alberta,Potable water,All municipalities,48,32.44
+2018,Alberta,Potable water,All urban municipalities,48,45.83
+2018,Alberta,Potable water,"Urban municipalities, population 1 to 4,999",48,47.37
+2018,Alberta,Potable water,"Urban municipalities, population 5,000 to 29,999",48,51.35
+2018,Alberta,Potable water,"Urban municipalities, population 30,000 or more",48,8.33
+2018,Alberta,Potable water,All rural municipalities,48,22.92
+2018,Alberta,Potable water,"Rural municipalities, population 1 to 4,999",48,21.79
+2018,Alberta,Potable water,"Rural municipalities, population 5,000 or more",48,27.78
+2018,Alberta,Stormwater,All municipalities,48,38.21
+2018,Alberta,Stormwater,All urban municipalities,48,49.32
+2018,Alberta,Stormwater,"Urban municipalities, population 1 to 4,999",48,47.96
+2018,Alberta,Stormwater,"Urban municipalities, population 5,000 to 29,999",48,56.76
+2018,Alberta,Stormwater,"Urban municipalities, population 30,000 or more",48,30.77
+2018,Alberta,Stormwater,All rural municipalities,48,27.45
+2018,Alberta,Stormwater,"Rural municipalities, population 1 to 4,999",48,23.33
+2018,Alberta,Stormwater,"Rural municipalities, population 5,000 or more",48,42.42
+2018,Alberta,Wastewater,All municipalities,48,33.43
+2018,Alberta,Wastewater,All urban municipalities,48,45.83
+2018,Alberta,Wastewater,"Urban municipalities, population 1 to 4,999",48,46.32
+2018,Alberta,Wastewater,"Urban municipalities, population 5,000 to 29,999",48,54.05
+2018,Alberta,Wastewater,"Urban municipalities, population 30,000 or more",48,16.67
+2018,Alberta,Wastewater,All rural municipalities,48,24.23
+2018,Alberta,Wastewater,"Rural municipalities, population 1 to 4,999",48,22.93
+2018,Alberta,Wastewater,"Rural municipalities, population 5,000 or more",48,29.73
+2018,Alberta,Solid waste,All municipalities,48,21.05
+2018,Alberta,Solid waste,All urban municipalities,48,30.91
+2018,Alberta,Solid waste,"Urban municipalities, population 1 to 4,999",48,31.43
+2018,Alberta,Solid waste,"Urban municipalities, population 5,000 to 29,999",48,26.67
+2018,Alberta,Solid waste,"Urban municipalities, population 30,000 or more",48,30
+2018,Alberta,Solid waste,All rural municipalities,48,13.14
+2018,Alberta,Solid waste,"Rural municipalities, population 1 to 4,999",48,10.19
+2018,Alberta,Solid waste,"Rural municipalities, population 5,000 or more",48,24.14
+2018,British Columbia,Potable water,All municipalities,59,60.73
+2018,British Columbia,Potable water,All urban municipalities,59,71.14
+2018,British Columbia,Potable water,"Urban municipalities, population 1 to 4,999",59,71.64
+2018,British Columbia,Potable water,"Urban municipalities, population 5,000 to 29,999",59,70.91
+2018,British Columbia,Potable water,"Urban municipalities, population 30,000 or more",59,70.37
+2018,British Columbia,Potable water,All rural municipalities,59,50
+2018,British Columbia,Potable water,"Rural municipalities, population 1 to 4,999",59,47.86
+2018,British Columbia,Potable water,"Rural municipalities, population 5,000 or more",59,71.43
+2018,British Columbia,Stormwater,All municipalities,59,64.26
+2018,British Columbia,Stormwater,All urban municipalities,59,74.52
+2018,British Columbia,Stormwater,"Urban municipalities, population 1 to 4,999",59,75.76
+2018,British Columbia,Stormwater,"Urban municipalities, population 5,000 to 29,999",59,75.41
+2018,British Columbia,Stormwater,"Urban municipalities, population 30,000 or more",59,72.41
+2018,British Columbia,Stormwater,All rural municipalities,59,53.38
+2018,British Columbia,Stormwater,"Rural municipalities, population 1 to 4,999",59,50
+2018,British Columbia,Stormwater,"Rural municipalities, population 5,000 or more",59,73.33
+2018,British Columbia,Wastewater,All municipalities,59,58.9
+2018,British Columbia,Wastewater,All urban municipalities,59,68.55
+2018,British Columbia,Wastewater,"Urban municipalities, population 1 to 4,999",59,76.47
+2018,British Columbia,Wastewater,"Urban municipalities, population 5,000 to 29,999",59,65.57
+2018,British Columbia,Wastewater,"Urban municipalities, population 30,000 or more",59,55.17
+2018,British Columbia,Wastewater,All rural municipalities,59,48.67
+2018,British Columbia,Wastewater,"Rural municipalities, population 1 to 4,999",59,46.38
+2018,British Columbia,Wastewater,"Rural municipalities, population 5,000 or more",59,75
+2018,British Columbia,Solid waste,All municipalities,59,36.27
+2018,British Columbia,Solid waste,All urban municipalities,59,37.62
+2018,British Columbia,Solid waste,"Urban municipalities, population 1 to 4,999",59,35.14
+2018,British Columbia,Solid waste,"Urban municipalities, population 5,000 to 29,999",59,43.59
+2018,British Columbia,Solid waste,"Urban municipalities, population 30,000 or more",59,32
+2018,British Columbia,Solid waste,All rural municipalities,59,34.95
+2018,British Columbia,Solid waste,"Rural municipalities, population 1 to 4,999",59,33.33
+2018,British Columbia,Solid waste,"Rural municipalities, population 5,000 or more",59,40
+2018,Yukon,Potable water,All municipalities,60,33.33
+2018,Yukon,Potable water,All urban municipalities,60,0
+2018,Yukon,Potable water,"Urban municipalities, population 1 to 4,999",60,0
+2018,Yukon,Potable water,"Urban municipalities, population 5,000 to 29,999",60,0
+2018,Yukon,Potable water,"Urban municipalities, population 30,000 or more",60,0
+2018,Yukon,Potable water,All rural municipalities,60,50
+2018,Yukon,Potable water,"Rural municipalities, population 1 to 4,999",60,50
+2018,Yukon,Potable water,"Rural municipalities, population 5,000 or more",60,0
+2018,Yukon,Stormwater,All municipalities,60,50
+2018,Yukon,Stormwater,All urban municipalities,60,0
+2018,Yukon,Stormwater,"Urban municipalities, population 1 to 4,999",60,0
+2018,Yukon,Stormwater,"Urban municipalities, population 5,000 to 29,999",60,0
+2018,Yukon,Stormwater,"Urban municipalities, population 30,000 or more",60,0
+2018,Yukon,Stormwater,All rural municipalities,60,66.67
+2018,Yukon,Stormwater,"Rural municipalities, population 1 to 4,999",60,66.67
+2018,Yukon,Stormwater,"Rural municipalities, population 5,000 or more",60,0
+2018,Yukon,Wastewater,All municipalities,60,50
+2018,Yukon,Wastewater,All urban municipalities,60,0
+2018,Yukon,Wastewater,"Urban municipalities, population 1 to 4,999",60,0
+2018,Yukon,Wastewater,"Urban municipalities, population 5,000 to 29,999",60,0
+2018,Yukon,Wastewater,"Urban municipalities, population 30,000 or more",60,0
+2018,Yukon,Wastewater,All rural municipalities,60,66.67
+2018,Yukon,Wastewater,"Rural municipalities, population 1 to 4,999",60,66.67
+2018,Yukon,Wastewater,"Rural municipalities, population 5,000 or more",60,0
+2018,Yukon,Solid waste,All municipalities,60,50
+2018,Yukon,Solid waste,All urban municipalities,60,0
+2018,Yukon,Solid waste,"Urban municipalities, population 1 to 4,999",60,0
+2018,Yukon,Solid waste,"Urban municipalities, population 5,000 to 29,999",60,0
+2018,Yukon,Solid waste,"Urban municipalities, population 30,000 or more",60,0
+2018,Yukon,Solid waste,All rural municipalities,60,66.67
+2018,Yukon,Solid waste,"Rural municipalities, population 1 to 4,999",60,66.67
+2018,Yukon,Solid waste,"Rural municipalities, population 5,000 or more",60,0
+2018,Northwest Territories,Potable water,All municipalities,61,14.29
+2018,Northwest Territories,Potable water,All urban municipalities,61,25
+2018,Northwest Territories,Potable water,"Urban municipalities, population 1 to 4,999",61,33.33
+2018,Northwest Territories,Potable water,"Urban municipalities, population 5,000 to 29,999",61,0
+2018,Northwest Territories,Potable water,"Urban municipalities, population 30,000 or more",61,0
+2018,Northwest Territories,Potable water,All rural municipalities,61,12.9
+2018,Northwest Territories,Potable water,"Rural municipalities, population 1 to 4,999",61,12.9
+2018,Northwest Territories,Potable water,"Rural municipalities, population 5,000 or more",61,0
+2018,Northwest Territories,Stormwater,All municipalities,61,25
+2018,Northwest Territories,Stormwater,All urban municipalities,61,33.33
+2018,Northwest Territories,Stormwater,"Urban municipalities, population 1 to 4,999",61,50
+2018,Northwest Territories,Stormwater,"Urban municipalities, population 5,000 to 29,999",61,0
+2018,Northwest Territories,Stormwater,"Urban municipalities, population 30,000 or more",61,0
+2018,Northwest Territories,Stormwater,All rural municipalities,61,0
+2018,Northwest Territories,Stormwater,"Rural municipalities, population 1 to 4,999",61,0
+2018,Northwest Territories,Stormwater,"Rural municipalities, population 5,000 or more",61,0
+2018,Northwest Territories,Wastewater,All municipalities,61,8.11
+2018,Northwest Territories,Wastewater,All urban municipalities,61,25
+2018,Northwest Territories,Wastewater,"Urban municipalities, population 1 to 4,999",61,33.33
+2018,Northwest Territories,Wastewater,"Urban municipalities, population 5,000 to 29,999",61,0
+2018,Northwest Territories,Wastewater,"Urban municipalities, population 30,000 or more",61,0
+2018,Northwest Territories,Wastewater,All rural municipalities,61,6.06
+2018,Northwest Territories,Wastewater,"Rural municipalities, population 1 to 4,999",61,6.06
+2018,Northwest Territories,Wastewater,"Rural municipalities, population 5,000 or more",61,0
+2018,Northwest Territories,Solid waste,All municipalities,61,10.26
+2018,Northwest Territories,Solid waste,All urban municipalities,61,0
+2018,Northwest Territories,Solid waste,"Urban municipalities, population 1 to 4,999",61,0
+2018,Northwest Territories,Solid waste,"Urban municipalities, population 5,000 to 29,999",61,0
+2018,Northwest Territories,Solid waste,"Urban municipalities, population 30,000 or more",61,0
+2018,Northwest Territories,Solid waste,All rural municipalities,61,11.43
+2018,Northwest Territories,Solid waste,"Rural municipalities, population 1 to 4,999",61,11.43
+2018,Northwest Territories,Solid waste,"Rural municipalities, population 5,000 or more",61,0
+2018,Nunavut,Potable water,All municipalities,62,0
+2018,Nunavut,Potable water,All urban municipalities,62,0
+2018,Nunavut,Potable water,"Urban municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Potable water,"Urban municipalities, population 5,000 to 29,999",62,0
+2018,Nunavut,Potable water,"Urban municipalities, population 30,000 or more",62,0
+2018,Nunavut,Potable water,All rural municipalities,62,0
+2018,Nunavut,Potable water,"Rural municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Potable water,"Rural municipalities, population 5,000 or more",62,0
+2018,Nunavut,Stormwater,All municipalities,62,0
+2018,Nunavut,Stormwater,All urban municipalities,62,0
+2018,Nunavut,Stormwater,"Urban municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Stormwater,"Urban municipalities, population 5,000 to 29,999",62,0
+2018,Nunavut,Stormwater,"Urban municipalities, population 30,000 or more",62,0
+2018,Nunavut,Stormwater,All rural municipalities,62,0
+2018,Nunavut,Stormwater,"Rural municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Stormwater,"Rural municipalities, population 5,000 or more",62,0
+2018,Nunavut,Wastewater,All municipalities,62,0
+2018,Nunavut,Wastewater,All urban municipalities,62,0
+2018,Nunavut,Wastewater,"Urban municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Wastewater,"Urban municipalities, population 5,000 to 29,999",62,0
+2018,Nunavut,Wastewater,"Urban municipalities, population 30,000 or more",62,0
+2018,Nunavut,Wastewater,All rural municipalities,62,0
+2018,Nunavut,Wastewater,"Rural municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Wastewater,"Rural municipalities, population 5,000 or more",62,0
+2018,Nunavut,Solid waste,All municipalities,62,0
+2018,Nunavut,Solid waste,All urban municipalities,62,0
+2018,Nunavut,Solid waste,"Urban municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Solid waste,"Urban municipalities, population 5,000 to 29,999",62,0
+2018,Nunavut,Solid waste,"Urban municipalities, population 30,000 or more",62,0
+2018,Nunavut,Solid waste,All rural municipalities,62,0
+2018,Nunavut,Solid waste,"Rural municipalities, population 1 to 4,999",62,0
+2018,Nunavut,Solid waste,"Rural municipalities, population 5,000 or more",62,0
+2020,Canada,Potable water,All municipalities,null,46.89
+2020,Canada,Potable water,All urban municipalities,null,62.48
+2020,Canada,Potable water,"Urban municipalities, population 1 to 4,999",null,55.65
+2020,Canada,Potable water,"Urban municipalities, population 5,000 to 29,999",null,68.18
+2020,Canada,Potable water,"Urban municipalities, population 30,000 or more",null,65.32
+2020,Canada,Potable water,All rural municipalities,null,42.13
+2020,Canada,Potable water,"Rural municipalities, population 1 to 4,999",null,40.52
+2020,Canada,Potable water,"Rural municipalities, population 5,000 or more",null,54.07
+2020,Canada,Stormwater,All municipalities,null,52.75
+2020,Canada,Stormwater,All urban municipalities,null,70.99
+2020,Canada,Stormwater,"Urban municipalities, population 1 to 4,999",null,57.76
+2020,Canada,Stormwater,"Urban municipalities, population 5,000 to 29,999",null,75.61
+2020,Canada,Stormwater,"Urban municipalities, population 30,000 or more",null,84.17
+2020,Canada,Stormwater,All rural municipalities,null,46.15
+2020,Canada,Stormwater,"Rural municipalities, population 1 to 4,999",null,43.64
+2020,Canada,Stormwater,"Rural municipalities, population 5,000 or more",null,59.7
+2020,Canada,Wastewater,All municipalities,null,48.37
+2020,Canada,Wastewater,All urban municipalities,null,64.56
+2020,Canada,Wastewater,"Urban municipalities, population 1 to 4,999",null,55.56
+2020,Canada,Wastewater,"Urban municipalities, population 5,000 to 29,999",null,70.04
+2020,Canada,Wastewater,"Urban municipalities, population 30,000 or more",null,71.88
+2020,Canada,Wastewater,All rural municipalities,null,43.38
+2020,Canada,Wastewater,"Rural municipalities, population 1 to 4,999",null,41.37
+2020,Canada,Wastewater,"Rural municipalities, population 5,000 or more",null,57.96
+2020,Canada,Solid waste,All municipalities,null,27.05
+2020,Canada,Solid waste,All urban municipalities,null,35.28
+2020,Canada,Solid waste,"Urban municipalities, population 1 to 4,999",null,30.72
+2020,Canada,Solid waste,"Urban municipalities, population 5,000 to 29,999",null,36.11
+2020,Canada,Solid waste,"Urban municipalities, population 30,000 or more",null,43.21
+2020,Canada,Solid waste,All rural municipalities,null,24.86
+2020,Canada,Solid waste,"Rural municipalities, population 1 to 4,999",null,23.85
+2020,Canada,Solid waste,"Rural municipalities, population 5,000 or more",null,32.91
+2020,Newfoundland and Labrador,Potable water,All municipalities,10,50.6
+2020,Newfoundland and Labrador,Potable water,All urban municipalities,10,68
+2020,Newfoundland and Labrador,Potable water,"Urban municipalities, population 1 to 4,999",10,54.55
+2020,Newfoundland and Labrador,Potable water,"Urban municipalities, population 5,000 to 29,999",10,76.92
+2020,Newfoundland and Labrador,Potable water,"Urban municipalities, population 30,000 or more",10,100
+2020,Newfoundland and Labrador,Potable water,All rural municipalities,10,48.21
+2020,Newfoundland and Labrador,Potable water,"Rural municipalities, population 1 to 4,999",10,48.64
+2020,Newfoundland and Labrador,Potable water,"Rural municipalities, population 5,000 or more",10,25
+2020,Newfoundland and Labrador,Stormwater,All municipalities,10,54.64
+2020,Newfoundland and Labrador,Stormwater,All urban municipalities,10,83.33
+2020,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 1 to 4,999",10,80
+2020,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 5,000 to 29,999",10,84.62
+2020,Newfoundland and Labrador,Stormwater,"Urban municipalities, population 30,000 or more",10,100
+2020,Newfoundland and Labrador,Stormwater,All rural municipalities,10,50.31
+2020,Newfoundland and Labrador,Stormwater,"Rural municipalities, population 1 to 4,999",10,50.32
+2020,Newfoundland and Labrador,Stormwater,"Rural municipalities, population 5,000 or more",10,75
+2020,Newfoundland and Labrador,Wastewater,All municipalities,10,57.45
+2020,Newfoundland and Labrador,Wastewater,All urban municipalities,10,80
+2020,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 1 to 4,999",10,72.73
+2020,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 5,000 to 29,999",10,84.62
+2020,Newfoundland and Labrador,Wastewater,"Urban municipalities, population 30,000 or more",10,100
+2020,Newfoundland and Labrador,Wastewater,All rural municipalities,10,54.76
+2020,Newfoundland and Labrador,Wastewater,"Rural municipalities, population 1 to 4,999",10,54.37
+2020,Newfoundland and Labrador,Wastewater,"Rural municipalities, population 5,000 or more",10,75
+2020,Newfoundland and Labrador,Solid waste,All municipalities,10,27.93
+2020,Newfoundland and Labrador,Solid waste,All urban municipalities,10,35
+2020,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 1 to 4,999",10,0
+2020,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 5,000 to 29,999",10,45.45
+2020,Newfoundland and Labrador,Solid waste,"Urban municipalities, population 30,000 or more",10,100
+2020,Newfoundland and Labrador,Solid waste,All rural municipalities,10,27.04
+2020,Newfoundland and Labrador,Solid waste,"Rural municipalities, population 1 to 4,999",10,25.48
+2020,Newfoundland and Labrador,Solid waste,"Rural municipalities, population 5,000 or more",10,100
+2020,Prince Edward Island,Potable water,All municipalities,11,88.89
+2020,Prince Edward Island,Potable water,All urban municipalities,11,100
+2020,Prince Edward Island,Potable water,"Urban municipalities, population 1 to 4,999",11,0
+2020,Prince Edward Island,Potable water,"Urban municipalities, population 5,000 to 29,999",11,100
+2020,Prince Edward Island,Potable water,"Urban municipalities, population 30,000 or more",11,0
+2020,Prince Edward Island,Potable water,All rural municipalities,11,90.91
+2020,Prince Edward Island,Potable water,"Rural municipalities, population 1 to 4,999",11,100
+2020,Prince Edward Island,Potable water,"Rural municipalities, population 5,000 or more",11,0
+2020,Prince Edward Island,Stormwater,All municipalities,11,50
+2020,Prince Edward Island,Stormwater,All urban municipalities,11,60
+2020,Prince Edward Island,Stormwater,"Urban municipalities, population 1 to 4,999",11,0
+2020,Prince Edward Island,Stormwater,"Urban municipalities, population 5,000 to 29,999",11,0
+2020,Prince Edward Island,Stormwater,"Urban municipalities, population 30,000 or more",11,0
+2020,Prince Edward Island,Stormwater,All rural municipalities,11,0
+2020,Prince Edward Island,Stormwater,"Rural municipalities, population 1 to 4,999",11,0
+2020,Prince Edward Island,Stormwater,"Rural municipalities, population 5,000 or more",11,0
+2020,Prince Edward Island,Wastewater,All municipalities,11,79.41
+2020,Prince Edward Island,Wastewater,All urban municipalities,11,83.33
+2020,Prince Edward Island,Wastewater,"Urban municipalities, population 1 to 4,999",11,0
+2020,Prince Edward Island,Wastewater,"Urban municipalities, population 5,000 to 29,999",11,100
+2020,Prince Edward Island,Wastewater,"Urban municipalities, population 30,000 or more",11,0
+2020,Prince Edward Island,Wastewater,All rural municipalities,11,78.57
+2020,Prince Edward Island,Wastewater,"Rural municipalities, population 1 to 4,999",11,84
+2020,Prince Edward Island,Wastewater,"Rural municipalities, population 5,000 or more",11,0
+2020,Prince Edward Island,Solid waste,All municipalities,11,0
+2020,Prince Edward Island,Solid waste,All urban municipalities,11,0
+2020,Prince Edward Island,Solid waste,"Urban municipalities, population 1 to 4,999",11,0
+2020,Prince Edward Island,Solid waste,"Urban municipalities, population 5,000 to 29,999",11,0
+2020,Prince Edward Island,Solid waste,"Urban municipalities, population 30,000 or more",11,0
+2020,Prince Edward Island,Solid waste,All rural municipalities,11,0
+2020,Prince Edward Island,Solid waste,"Rural municipalities, population 1 to 4,999",11,0
+2020,Prince Edward Island,Solid waste,"Rural municipalities, population 5,000 or more",11,0
+2020,Nova Scotia,Potable water,All municipalities,12,72.41
+2020,Nova Scotia,Potable water,All urban municipalities,12,66.67
+2020,Nova Scotia,Potable water,"Urban municipalities, population 1 to 4,999",12,72.73
+2020,Nova Scotia,Potable water,"Urban municipalities, population 5,000 to 29,999",12,66.67
+2020,Nova Scotia,Potable water,"Urban municipalities, population 30,000 or more",12,0
+2020,Nova Scotia,Potable water,All rural municipalities,12,81.82
+2020,Nova Scotia,Potable water,"Rural municipalities, population 1 to 4,999",12,75
+2020,Nova Scotia,Potable water,"Rural municipalities, population 5,000 or more",12,100
